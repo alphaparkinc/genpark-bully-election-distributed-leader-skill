@@ -1,0 +1,13 @@
+{
+  "name": "genpark-bully-election-distributed-leader-skill",
+  "version": "1.0.0",
+  "description": "Bully distributed leader election algorithm resolving coordinator crashes with rank-priority election messages and answer timeouts.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bully-election",
+    "leader-election",
+    "distributed-algorithms",
+    "fault-tolerance"
+  ]
+}
